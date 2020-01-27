@@ -5,3 +5,6 @@ bin/*
 *.a
 obj/*
 .DS_Store
+
+*.swp
+*.swo
